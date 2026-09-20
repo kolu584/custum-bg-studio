@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Custum BG Studio</title>
+    <meta name="description" content="Custum BG Studioはボードゲームを中心としたアプリやサイトを制作しています。">
+    <link rel="canonical" href="https://custumbgstudio.com/">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="Custum BG Studio">
+    <meta property="og:locale" content="ja_JP">
+    <meta property="og:title" content="Custum BG Studio">
+    <meta property="og:description" content="Custum BG Studioはボードゲームを中心としたアプリやサイトを制作しています。">
+    <meta property="og:url" content="https://custumbgstudio.com/">
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:title" content="Custum BG Studio">
+    <meta name="twitter:description" content="Custum BG Studioはボードゲームを中心としたアプリやサイトを制作しています。">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@300;400;600&family=Noto+Sans+JP:wght@300;400&display=swap" rel="stylesheet">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Noto Sans JP', sans-serif;
+            background-color: #ffffff;
+            background-image: url('images/11_46_01.png');
+            background-repeat: no-repeat;
+            background-size: auto;
+            background-position: center top;
+            min-height: 1536px;
+            color: #3a3028;
+        }
+
+        /* メインコンテンツ */
+        main {
+            padding-top: 60px;
+            padding-left: 48px;
+            padding-right: 48px;
+            max-width: 820px;
+            margin: 0 auto;
+            text-align: center;
+        }
+
+        /* スタジオ名 */
+        .studio-name {
+            font-family: 'Cormorant Garamond', serif;
+            font-size: clamp(2.8rem, 6vw, 5rem);
+            font-weight: 300;
+            line-height: 1.15;
+            letter-spacing: 0.04em;
+            color: #3a3028;
+            margin-bottom: 40px;
+        }
+
+        /* 区切り線 */
+        .divider {
+            width: 48px;
+            height: 1px;
+            background: linear-gradient(to right, transparent, #c8a87a, transparent);
+            margin: 0 auto 36px;
+        }
+
+        /* 説明文 */
+        .studio-description {
+            font-size: 0.95rem;
+            font-weight: 300;
+            line-height: 2;
+            color: #5a4d42;
+            margin-bottom: 20px;
+            max-width: 480px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        /* お知らせ文 */
+        .coming-note {
+            font-size: 0.82rem;
+            font-weight: 300;
+            color: #a09080;
+            letter-spacing: 0.04em;
+            line-height: 1.8;
+            display: inline-block;
+        }
+
+        /* ===== レスポンシブ ===== */
+        @media (max-width: 768px) {
+            main {
+                padding-top: 96px;
+                padding-left: 24px;
+                padding-right: 24px;
+            }
+
+            .studio-description {
+                max-width: 100%;
+            }
+        }
+
+        @media (max-width: 480px) {
+            main {
+                padding-top: 88px;
+                padding-left: 18px;
+                padding-right: 18px;
+            }
+
+            .studio-description {
+                font-size: 0.9rem;
+            }
+
+            .coming-note {
+                font-size: 0.78rem;
+            }
+        }
+    </style>
+</head>
+<body>
+
+    <main>
+        <h1 class="studio-name">Custum BG Studio</h1>
+        <div class="divider"></div>
+        <p class="studio-description">Custum BG Studioはボードゲームを中心としたアプリやサイトを制作しています。</p>
+        <p class="coming-note">公開されたアプリやサイトの情報が下記に追加されていきます。</p>
+    </main>
+
+</body>
+</html>
