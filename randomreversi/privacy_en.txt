@@ -1,0 +1,122 @@
+Privacy Policy
+
+CUSTUM BG STUDIO (the "operator") establishes this Privacy Policy (the "Policy") regarding the handling of user information in the app "RandomReversi" (the "App") provided by the operator.
+
+1. Information collected
+
+The App collects the following information.
+
+(1) Account information
+
+- Player ID (an anonymous identifier automatically issued by the App)
+
+- Nickname
+
+- Country/region
+
+- If you link a Google account or Apple ID, the user identifier provided by that service (we do not collect your name or email address)
+
+(2) Gameplay information
+
+- Match data (game records, match results, and the opponent's Player ID)
+
+- Rating and ranking position
+
+- In-game currency and item holdings, and purchase history (the type of item purchased and the date and time; payment information is processed by Apple or Google and is not collected by the operator)
+
+- Content of reports
+
+- Save data (settings, progress, and so on)
+
+(3) Device and network information
+
+- Device information (model name, OS version, and so on)
+
+- Language setting
+
+- IP address
+
+- Advertising identifiers (Advertising ID / IDFA and the like)
+
+The operator does not collect your name, address, telephone number, email address, or similar information within the App. However, if you send an email to contact us, we will receive your email address and the content of your message.
+
+2. Purpose of use
+
+The collected information is used for the following purposes.
+
+- Providing the App (online matches, rankings, syncing save data, and identifying accounts)
+
+- Matching opponents and calculating ratings
+
+- Detecting and preventing cheating, and responding to reports
+
+- Serving advertisements and measuring their effectiveness
+
+- Fixing bugs, improving quality, and statistical analysis of the App
+
+- Responding to inquiries
+
+3. Publicly visible information
+
+Your nickname, country/region, rating, and ranking position are visible to opponents and other users.
+
+4. Third-party services
+
+The App uses the following third-party services. The handling of information by each service is governed by the privacy policy of the respective provider.
+
+- Unity Gaming Services (Unity Technologies): used for account authentication, storing save data, rankings, and online matches.
+  https://unity.com/legal/privacy-policy
+
+- Google AdMob (Google LLC): used for serving advertisements. Third-party advertising providers, including Google, may use advertising identifiers and similar data to display advertisements suited to you. You can disable personalised advertising in your device settings.
+  https://policies.google.com/privacy
+
+- Google Play Games / Apple (Sign in with Apple): used only if you choose to link your account.
+
+5. Provision to third parties
+
+The operator does not provide collected information to third parties except in the following cases.
+
+- When sending information to the third-party services listed in the preceding section, to the extent necessary for them to provide their services
+
+- When required by law
+
+- When necessary to protect a person's life, body, or property and it is difficult to obtain the consent of the individual
+
+6. International data transfers
+
+Collected information may be stored on servers located outside Japan that are managed by the third-party services listed above.
+
+7. Retention period
+
+Collected information is retained for as long as your account exists, to the extent necessary to provide the App. After your account is deleted, the information is deleted as described in the following section. However, information necessary to prevent cheating may be retained in a statistical or anonymised form.
+
+8. Account deletion
+
+You can delete your account at any time from the settings screen within the App. When you delete your account, the data associated with it, including your Player ID, nickname, rating, save data, in-game currency, and items, is erased and cannot be restored. Your information may remain visible in rankings and similar displays for a certain period after deletion.
+
+If you are unable to delete your account from within the App, please contact us at the address in Section 12.
+
+9. Management of information
+
+The operator manages collected information appropriately and endeavours to prevent unauthorised access, leakage, and tampering.
+
+10. Use by minors
+
+The App does not knowingly collect personal information from users under the age of 13.
+
+11. Changes to this Policy
+
+The operator may change this Policy as necessary. The changed Policy takes effect when it is posted in the App or on the operator's website.
+
+12. Contact
+
+For inquiries regarding this Policy or the handling of your information, please contact us at the following address.
+
+CUSTUM BG STUDIO
+Email: tentaclea241@gmail.com
+
+13. Language
+
+The Japanese text of this Policy is the authoritative version, and versions in other languages are provided as reference translations only. In the event of any discrepancy between the Japanese version and a version in another language, the Japanese version shall prevail.
+
+Effective date: 20 September 2026

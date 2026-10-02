@@ -1,0 +1,135 @@
+Terms of Service
+
+These Terms of Service (the "Terms") set out the conditions for using the service provided by this app (the "Service"). Users shall use the Service only after agreeing to these Terms.
+
+Article 1 (Content of the Service)
+
+The Service provides the RandomReversi app, including online match functionality.
+
+Article 2 (Suspension and Interruption of the Service)
+
+1. The operator may suspend or interrupt all or part of the Service due to server failure, maintenance, or other reasons.
+
+2. The operator bears no liability whatsoever for any damage caused to users by the suspension, interruption, or unavailability of the Service.
+
+Article 3 (Termination of the Service)
+
+The operator may terminate the Service without prior notice. The operator will try to give advance notice where possible, but does not guarantee it.
+
+Article 4 (Accounts)
+
+1. Users shall manage their own account at their own responsibility.
+
+2. The operator does not guarantee the recovery of lost account data.
+
+3. Selling, transferring, or lending an account is prohibited.
+
+Article 5 (Prohibited Conduct)
+
+Users shall not engage in the following conduct.
+
+1. Cheating using cheat tools, external engines, or similar means
+
+2. Improper use of multiple accounts
+
+3. Conduct that interferes with the operation of the Service
+
+4. Making false reports or reports intended to harass
+
+5. Any other conduct that the operator deems inappropriate
+
+Article 6 (Suspension of Use)
+
+If a user violates these Terms, the operator may suspend that user's use of the Service or delete their account without prior notice.
+
+Article 7 (Matches and Ratings)
+
+The operator endeavours to provide accurate match results and ratings.
+
+However, the operator does not guarantee their accuracy or completeness.
+
+Even if a rating or match result contains an error, the operator does not guarantee its correction or restoration.
+
+Article 8 (Network Environment)
+
+Users shall provide, at their own responsibility, the network environment required to use the Service. The operator bears no liability whatsoever for any disadvantage arising from network problems, delays, disconnections, or the like.
+
+Article 9 (Intellectual Property Rights)
+
+The copyright and other rights relating to the images, UI, programs, and other elements within the Service belong to the operator or to the rightful rights holders.
+
+Article 10 (Rights to Game Records)
+
+1. Users shall not assert copyright or any other rights over such game records.
+
+2. The operator may freely use such game records, including reproduction, publication, distribution, and analysis.
+
+Article 11 (Privacy)
+
+The handling of user information is governed by the separately established "Privacy Policy".
+
+Article 12 (Use by Minors)
+
+Where a minor makes a purchase within the Service, they shall obtain the consent of a guardian in advance.
+
+Article 13 (Changes to the Terms)
+
+The operator may change these Terms without prior notice when it deems it necessary. The changed Terms take effect at the time they are posted on the Service, and users are deemed to have agreed to them.
+
+Article 14 (Disclaimer)
+
+The operator bears no liability whatsoever for any damage caused to users in connection with the Service.
+
+Article 15 (Governing Law and Jurisdiction)
+
+These Terms are governed by Japanese law. If a dispute arises regarding the Service, the court having jurisdiction over the operator's location shall be the exclusive agreed court of first instance.
+
+Article 16 (Video Distribution and Use of Content)
+
+1. Users may record footage of matches played using the Service and may produce, publish, and distribute videos, including live streaming.
+
+2. In doing so, users shall comply with the law and with these Terms, and shall not infringe the rights of third parties.
+
+3. The operator bears no liability whatsoever for any damage arising in connection with the production, publication, or distribution of videos by users.
+
+Article 17 (Language)
+
+The Japanese text of these Terms is the authoritative version, and versions in other languages are provided as reference translations only. In the event of any discrepancy between the Japanese version and a version in another language, the Japanese version shall prevail.
+
+Article 18 (In-Game Currency and Items)
+
+1. Coins, tickets, skins, and other items provided in the Service (the "Items") have no cash or other monetary value and cannot be exchanged for cash, refunded, or transferred to third parties.
+
+2. Items are extinguished upon termination of the Service, deletion of the account, or suspension of use, and the operator provides no compensation for them.
+
+3. The operator may change the appearance rates, prices, effects, and other attributes of Items without prior notice.
+
+Article 19 (Account Deletion)
+
+1. Users may delete their account at any time from the settings within the Service.
+
+2. When an account is deleted, all data, including coins, ratings, and purchased Items, is erased and cannot be restored.
+
+3. Even after deletion, user information may remain visible in rankings and similar displays for a certain period.
+
+Article 20 (Publicly Visible Information)
+
+1. Nicknames and country/region are visible to opponents and other users and are also displayed in rankings and similar features.
+
+2. Users shall not set a nickname that contains expressions offensive to others, impersonates another person, or includes personal information.
+
+3. The operator may change or reset a nickname it deems inappropriate without prior notice.
+
+Article 21 (Determination of Cheating)
+
+1. The operator may analyse match data to determine whether cheating has occurred.
+
+2. The content of and reasons for such determinations are not disclosed to anyone, including the user who made the report.
+
+Article 22 (Advertising)
+
+1. The Service displays advertisements served by third parties. The operator bears no responsibility for the content of advertisements or the sites they link to.
+
+2. Rewards conditional on watching an advertisement are granted only when playback of the advertisement is completed. The operator provides no compensation if a reward is not granted due to network conditions or other reasons.
+
+Effective date: 20 September 2026

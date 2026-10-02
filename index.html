@@ -87,6 +87,40 @@
             display: inline-block;
         }
 
+        /* 書類へのボタン。**アプリが増えたら下に足していく**ので、
+           横に並べず縦に積む */
+        .documents {
+            margin-top: 72px;
+            padding-bottom: 64px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 14px;
+        }
+
+        .doc-button {
+            display: block;
+            width: 100%;
+            max-width: 400px;
+            padding: 17px 24px;
+            font-size: 0.88rem;
+            font-weight: 300;
+            letter-spacing: 0.03em;
+            text-align: center;
+            text-decoration: none;
+            color: #5a4d42;
+            background-color: rgba(255, 255, 255, 0.72);
+            border: 1px solid #e4d9c6;
+            border-radius: 2px;
+            transition: border-color 0.25s, color 0.25s, background-color 0.25s;
+        }
+
+        .doc-button:hover {
+            color: #3a3028;
+            border-color: #c8a87a;
+            background-color: #ffffff;
+        }
+
         /* ===== レスポンシブ ===== */
         @media (max-width: 768px) {
             main {
@@ -124,6 +158,11 @@
         <div class="divider"></div>
         <p class="studio-description">Custum BG Studioはボードゲームを中心としたアプリやサイトを制作しています。</p>
         <p class="coming-note">公開されたアプリやサイトの情報が下記に追加されていきます。</p>
+
+        <nav class="documents">
+            <a class="doc-button" href="randomreversi/terms.html">RandomReversi 利用規約</a>
+            <a class="doc-button" href="randomreversi/privacy.html">RandomReversi プライバシーポリシー</a>
+        </nav>
     </main>
 
 </body>
