@@ -70,7 +70,15 @@ CUSTUM BG STUDIO（以下「当運営」といいます）は、当運営が提�
 ・Google AdMob（Google LLC）：広告の配信のために利用します。Google を含む第三者配信事業者は、広告識別子等を利用して、ユーザーに適した広告を表示する場合があります。ユーザーは端末の設定からパーソナライズ広告を無効にできます。
 　https://policies.google.com/privacy
 
-・Google Play Games / Apple（Sign in with Apple）：ユーザーがアカウント連携を行った場合に限り利用します。
+・Unity Player Accounts（Unity Technologies）：アカウント連携のために利用します。連携時のログイン（Google、Apple、メールアドレスとパスワード）は同社の画面で行われ、当運営はメールアドレスやパスワードを取得しません。
+
+Unity Player Account の削除は次のページから行えます。
+
+https://player-account.unity.com/delete-account
+
+Unity Player Account に関する個人情報の開示・削除等の請求は、次の宛先へ行えます。
+
+unity-player-login-privacy@unity3d.com
 
 5. 第三者への提供
 

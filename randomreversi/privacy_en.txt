@@ -70,7 +70,15 @@ The App uses the following third-party services. The handling of information by 
 - Google AdMob (Google LLC): used for serving advertisements. Third-party advertising providers, including Google, may use advertising identifiers and similar data to display advertisements suited to you. You can disable personalised advertising in your device settings.
   https://policies.google.com/privacy
 
-- Google Play Games / Apple (Sign in with Apple): used only if you choose to link your account.
+- Unity Player Accounts (Unity Technologies): used for account linking. Signing in (Google, Apple, or email and password) takes place on that company's pages, and the operator does not obtain your email address or password.
+
+You can delete your Unity Player Account from the following page.
+
+https://player-account.unity.com/delete-account
+
+Requests for disclosure or deletion of personal data relating to a Unity Player Account can be sent to the following address.
+
+unity-player-login-privacy@unity3d.com
 
 5. Provision to third parties
 
