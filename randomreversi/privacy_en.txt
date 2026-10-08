@@ -14,7 +14,7 @@ The App collects the following information.
 
 - Country/region
 
-- If you link a Google account or Apple ID, the user identifier provided by that service (we do not collect your name or email address)
+- If you link an account, the user identifier provided by Unity Player Accounts and the email address used to identify which account is linked (we do not collect your name; the email address is stored only on your device and is not sent to the operator's servers)
 
 (2) Gameplay information
 
