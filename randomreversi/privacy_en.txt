@@ -14,7 +14,7 @@ The App collects the following information.
 
 - Country/region
 
-- If you link an account, the user identifier provided by Unity Player Accounts and the email address used to identify which account is linked (we do not collect your name; the email address is stored only on your device and is not sent to the operator's servers)
+- The transfer ID and password (sent to Unity Gaming Services for authentication and held by them; the operator cannot view them. A copy is also stored on your device)
 
 (2) Gameplay information
 
@@ -69,16 +69,6 @@ The App uses the following third-party services. The handling of information by 
 
 - Google AdMob (Google LLC): used for serving advertisements. Third-party advertising providers, including Google, may use advertising identifiers and similar data to display advertisements suited to you. You can disable personalised advertising in your device settings.
   https://policies.google.com/privacy
-
-- Unity Player Accounts (Unity Technologies): Used for account linking. Signing in (Google, Apple, or email and password) takes place on that company's pages, and the operator does not obtain your password. Your email address is used solely to show which account is linked on the settings screen and is stored only on your device. It is not sent to the operator's servers.
-
-You can delete your Unity Player Account from the following page.
-
-https://player-account.unity.com/delete-account
-
-Requests for disclosure or deletion of personal data relating to a Unity Player Account can be sent to the following address.
-
-unity-player-login-privacy@unity3d.com
 
 5. Provision to third parties
 

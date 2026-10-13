@@ -24,7 +24,7 @@ Article 4 (Accounts)
 
 3. Selling, transferring, or lending an account is prohibited.
 
-4. Account authentication is handled through Unity Player Accounts. Credentials such as the email address and password used to sign in are managed by Unity Technologies, and the operator does not obtain them. Users are responsible for managing and resetting their credentials through the procedures provided by that company.
+4. Data transfer uses a transfer ID and password issued by this app. They are held by the authentication service (Unity Gaming Services) and cannot be viewed by the operator, so they cannot be recovered if lost. Users are responsible for keeping them safe.
 
 Article 5 (Prohibited Conduct)
 
